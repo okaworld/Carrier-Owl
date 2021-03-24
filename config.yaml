@@ -4,6 +4,8 @@ subject: 'cat:cs.*'
 # 検索キーワード
 keywords:
         word sense disambiguation: 3
+        parsing: 3
+        bert: 3
 
 # 通知の閾値
 score_threshold: 0
